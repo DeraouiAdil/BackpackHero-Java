@@ -1,5 +1,3 @@
-# Projet Java William Adil
-
 Pour jouer au jeu, vous devez compiler le main.
 
 Organisation / hiérarchie des classes:
