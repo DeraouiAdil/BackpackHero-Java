@@ -1,0 +1,11 @@
+[
+  {
+    "name": "MANASTONEBOW",
+    "category": "MANASTONE",
+    "rarity": "UNCOMMON",
+    "cost": { "type": "MANA", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "image": "MANASTONEBOW.png",
+    "description": ""
+  }
+]

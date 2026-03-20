@@ -1,0 +1,10 @@
+[
+  {
+    "name": "PURSE",
+    "pvmax": 100,
+    "energy": 3,
+    "mana": 2,
+    "protection": 0,
+    "img": "hero.gif"
+  }
+]

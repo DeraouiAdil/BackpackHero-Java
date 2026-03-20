@@ -1,0 +1,218 @@
+[
+  {
+    "name": "BARBELL",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "BARBELL.png",
+    "description": "On take Damage:\"Each Turn\" effects are applied againDisabled for 1 turn"
+  },
+  {
+    "name": "BELTOFKNIVES",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "BELTOFKNIVES.png",
+    "description": "When you use 5 items:Deals 5 Damage to all enemies"
+  },
+  {
+    "name": "BOMBSTONE",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "BOMBSTONE.png",
+    "description": "On use:Weapons behind this get +500% bonus Damage permanentlyWeapons behind this are usedWeapons beh..."
+  },
+  {
+    "name": "CLEANSINGFLAME",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "CLEANSINGFLAME.png",
+    "description": "Whenever a status effect is removed, add Burn equal to the amount removedThis effect applies to ever..."
+  },
+  {
+    "name": "CONDUCTOR",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "CONDUCTOR.png",
+    "description": "All connected Weapons get +25% bonus Damage"
+  },
+  {
+    "name": "CORAL",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "CORAL.png",
+    "description": "When combat ends:Select a common item to be duplicated"
+  },
+  {
+    "name": "FLUFFYCOTTON",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "FLUFFYCOTTON.png",
+    "description": "Each Turn, for each Energy:Removes 1 EnergyAdds 3 Mana to connected Mana Network"
+  },
+  {
+    "name": "GLASSBOTTLE",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "GLASSBOTTLE.png",
+    "description": "If you end your turn with 0 block:Adds 1 Energy"
+  },
+  {
+    "name": "MOUSEWOOD",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "MOUSEWOOD.png",
+    "description": "For every 5 empty spaces:Gets 1 EnergyEach turn:Adds 0 Energy"
+  },
+  {
+    "name": "ORE",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "ORE.png",
+    "description": "For every 40 Gold:Adds 1 EnergyEach turn:Adds 0 Energy"
+  },
+  {
+    "name": "SHIELDSPIRIT",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "SHIELDSPIRIT.png",
+    "description": "Keep half your Block next Turn"
+  },
+  {
+    "name": "SPICE",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "SPICE.png",
+    "description": "When an item is destroyed:Adds 1 EnergyDisabled for 1 turn"
+  },
+  {
+    "name": "SPICYGINGER",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 2 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "SPICYGINGER.png",
+    "description": "You cannot place items of the same type next to each otherEach turn:Adds 2 Energy"
+  },
+  {
+    "name": "STOPWATCH",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "STOPWATCH.png",
+    "description": "Can be used 1 time each combatOn use:Adds 1 Sleep to all enemies"
+  },
+  {
+    "name": "TUSK",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "TUSK.png",
+    "description": "- All Weapons get +5 damageAll Weapons get this effect applied:On use, this item gets Anchored for 2..."
+  },
+  {
+    "name": "WINDMILL",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "WINDMILL.png",
+    "description": "Each Turn:Adds +1 Energy"
+  },
+  {
+    "name": "GEMOFANNA",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "GEMOFANNA.png",
+    "description": "EveryArmorGet This Effect Applied:For each Adjacent Gem, this item gets +3 block"
+  },
+  {
+    "name": "EMBERSHARD",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "EMBERSHARD.png",
+    "description": "If you didn't manually use aWeaponslast turn:you will get +1 Energy for the next turn"
+  },
+  {
+    "name": "ELECTRICRING",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "ELECTRICRING.png",
+    "description": "When a charge goes out of the bag,it bounces  and goes to the opposite direction and loses 1 powerEx..."
+  },
+  {
+    "name": "SPAREGLASSES",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 2 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "SPAREGLASSES.png",
+    "description": "Each Turn:Adds 2 EnergyOn TossingCarvings:Is disabled for the rest of this combat\"I can't see withou..."
+  },
+  {
+    "name": "FROGHAT",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "FROGHAT.png",
+    "description": "-1 Energy to the cost of Tossing carvings in Combat"
+  },
+  {
+    "name": "MORTAR",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "MORTAR.png",
+    "description": "Must be played on aCarvingOn Use:Carvingsbehind are discarded+1 To the Energy cost this Turn"
+  },
+  {
+    "name": "WASPHONEY",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "WASPHONEY.png",
+    "description": "Every 4Carvingsyou played this turn:Deals 3 Damage to all enemies"
+  },
+  {
+    "name": "GAMBLERTOAD",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "GAMBLERTOAD.png",
+    "description": "If your backpack is full, Toss Damage is doubled"
+  },
+  {
+    "name": "LILYPAD",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "LILYPAD.png",
+    "description": "On Use:Discards allCarvingsin your backpack"
+  },
+  {
+    "name": "CRACKEDBOTTLE",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "CRACKEDBOTTLE.png",
+    "description": "Toss Adds an additional damage for eachCarving"
+  },
+  {
+    "name": "REVERSEHOURGLASS",
+    "category": "RELIC",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "REVERSEHOURGLASS.png",
+    "description": "Can be used 2 times each turnIf your hand is empty, draw a newCarving"
+  }
+]

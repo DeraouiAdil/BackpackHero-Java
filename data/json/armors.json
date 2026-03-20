@@ -1,0 +1,434 @@
+[
+  {
+    "name": "BRONZEBREASTPLATE",
+    "category": "CLOTHINGARMOR",
+    "protection": 1,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "BRONZEBREASTPLATE.png"
+  },
+  {
+    "name": "TUNIC",
+    "category": "CLOTHINGARMOR",
+    "protection": 1,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "TUNIC.png"
+  },
+  {
+    "name": "KNIGHTSARMOR",
+    "category": "CLOTHINGARMOR",
+    "protection": 1,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "KNIGHTSARMOR.png"
+  },
+  {
+    "name": "CHAINMAIL",
+    "category": "CLOTHINGARMOR",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "CHAINMAIL.png"
+  },
+  {
+    "name": "PLATEARMOR",
+    "category": "CLOTHINGARMOR",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "PLATEARMOR.png"
+  },
+  {
+    "name": "ARCHANGELARMOR",
+    "category": "CLOTHINGARMOR",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "ARCHANGELARMOR.png"
+  },
+  {
+    "name": "REDHOODIE",
+    "category": "CLOTHINGARMOR",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "REDHOODIE.png"
+  },
+  {
+    "name": "WIZARDSROBE",
+    "category": "CLOTHINGARMOR",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "WIZARDSROBE.png"
+  },
+  {
+    "name": "NINJACOSTUME",
+    "category": "CLOTHINGARMOR",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "NINJACOSTUME.png"
+  },
+  {
+    "name": "LEATHERBOOTS",
+    "category": "FOOTARMOR",
+    "protection": 1,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }],
+    "image": "LEATHERBOOTS.png"
+  },
+  {
+    "name": "STEELBOOTS",
+    "category": "FOOTARMOR",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }],
+    "image": "STEELBOOTS.png"
+  },
+  {
+    "name": "CLIMBINGGLOVELEFT",
+    "category": "GLOVE",
+    "protection": 1,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "CLIMBINGGLOVELEFT.png"
+  },
+  {
+    "name": "CLIMBINGGLOVERIGHT",
+    "category": "GLOVE",
+    "protection": 1,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "CLIMBINGGLOVERIGHT.png"
+  },
+  {
+    "name": "LEFTGLOVE",
+    "category": "GLOVE",
+    "protection": 1,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "LEFTGLOVE.png"
+  },
+  {
+    "name": "RIGHTGLOVE",
+    "category": "GLOVE",
+    "protection": 1,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "RIGHTGLOVE.png"
+  },
+  {
+    "name": "GLOVEOFKNIVES",
+    "category": "GLOVE",
+    "protection": 1,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "GLOVEOFKNIVES.png"
+  },
+  {
+    "name": "LEFTGAUNTLET",
+    "category": "GLOVE",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "LEFTGAUNTLET.png"
+  },
+  {
+    "name": "RIGHTGAUNTLET",
+    "category": "GLOVE",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "RIGHTGAUNTLET.png"
+  },
+  {
+    "name": "IRONHELMET",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "IRONHELMET.png"
+  },
+  {
+    "name": "SPIKEDHELMET",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "SPIKEDHELMET.png"
+  },
+  {
+    "name": "WINTERHAT",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "WINTERHAT.png"
+  },
+  {
+    "name": "CAP",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "CAP.png"
+  },
+  {
+    "name": "LEATHERCAP",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "LEATHERCAP.png"
+  },
+  {
+    "name": "WINGEDHELMET",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "WINGEDHELMET.png"
+  },
+  {
+    "name": "ROGUESMASK",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "ROGUESMASK.png"
+  },
+  {
+    "name": "HORNS",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "HORNS.png"
+  },
+  {
+    "name": "TOPHAT",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "TOPHAT.png"
+  },
+  {
+    "name": "CHEFSHAT",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "CHEFHAT.png"
+  },
+  {
+    "name": "FEATHERCAP",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "image": "FEATHERCAP.png"
+  },
+  {
+    "name": "WIZARDCAP",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "WIZARDCAP.png"
+  },
+  {
+    "name": "METALLICMASK",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "METALLICMASK.png"
+  },
+  {
+    "name": "METALLICMASKHALLOWEEN",
+    "category": "HELMETARMOR",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "METALLICMASKHALLOWEEN.png"
+  },
+  {
+    "name": "ROUGHBUCKLER",
+    "category": "SHIELD",
+    "protection": 7,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "ROUGHBUCKLER.png"
+  },
+  {
+    "name": "KNIGHTSSHIELD",
+    "category": "SHIELD",
+    "protection": 7,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "image": "KNIGHTSSHIELD.png"
+  },
+  {
+    "name": "SLATSSHIELD",
+    "category": "SHIELD",
+    "protection": 8,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "image": "SLATSSHIELD.png"
+  },
+  {
+    "name": "LILBUCKLER",
+    "category": "SHIELD",
+    "protection": 8,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "LILBUCKLER.png"
+  },
+  {
+    "name": "WILDBUCKLER",
+    "category": "SHIELD",
+    "protection": 6,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "WILDBUCKLER.png"
+  },
+  {
+    "name": "BOOHOOBUCKLER",
+    "category": "SHIELD",
+    "protection": 2,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "BOOHOOBUCKLER.png"
+  },
+  {
+    "name": "PINSBUCKLER",
+    "category": "SHIELD",
+    "protection": 10,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "PINSBUCKLER.png"
+  },
+  {
+    "name": "WINGCRESTSHIELD",
+    "category": "SHIELD",
+    "protection": 10,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "WINGCRESTSHIELD.png"
+  },
+  {
+    "name": "SWAMPBUCKLER",
+    "category": "SHIELD",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "SWAMPBUCKLER.png"
+  },
+  {
+    "name": "AMETHYSTBUCKLER",
+    "category": "SHIELD",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "AMETHYSTBUCKLER.png"
+  },
+  {
+    "name": "SOLDIERSBUCKLER",
+    "category": "SHIELD",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "SOLDIERSBUCKLER.png"
+  },
+  {
+    "name": "TOWERSHIELD",
+    "category": "SHIELD",
+    "protection": 1,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "image": "TOWERSHIELD.png"
+  },
+  {
+    "name": "HERCULEPAVISE",
+    "category": "SHIELD",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 2 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "image": "HERCULEPAVISE.png"
+  },
+  {
+    "name": "MIRRORSHIELD",
+    "category": "SHIELD",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "image": "MIRRORSHIELD.png"
+  },
+  {
+    "name": "KINGSSHIELD",
+    "category": "SHIELD",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "image": "KINGSSHIELD.png"
+  },
+  {
+    "name": "BASHINGSHIELD",
+    "category": "SHIELD",
+    "protection": 1,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "image": "BASHINGSHIELD.png"
+  }
+]

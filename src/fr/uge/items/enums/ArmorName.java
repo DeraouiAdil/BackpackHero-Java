@@ -1,0 +1,67 @@
+package fr.uge.items.enums;
+
+/**
+ * Enumeration listing the specific names of all armor pieces available in the game.
+ * <p>
+ * This enum includes identifiers for clothing, footwear, gloves, helmets, and shields.
+ * </p>
+ */
+public enum ArmorName {
+  // ClothingType
+  BRONZEBREASTPLATE,
+  TUNIC,
+  KNIGHTSARMOR,
+  CHAINMAIL,
+  PLATEARMOR,
+  ARCHANGELARMOR,
+  REDHOODIE,
+  WIZARDSROBE,
+  NINJACOSTUME,
+
+  // FootWearType
+  LEATHERBOOTS,
+  STEELBOOTS,
+
+  // GlovesType
+  CLIMBINGGLOVELEFT,
+  CLIMBINGGLOVERIGHT,
+  LEFTGLOVE,
+  RIGHTGLOVE,
+  GLOVEOFKNIVES,
+  LEFTGAUNTLET,
+  RIGHTGAUNTLET,
+
+  // HelmetType
+  IRONHELMET,
+  SPIKEDHELMET,
+  WINTERHAT,
+  CAP,
+  LEATHERCAP,
+  WINGEDHELMET,
+  ROGUESMASK,
+  HORNS,
+  TOPHAT,
+  CHEFSHAT,
+  FEATHERCAP,
+  WIZARDCAP,
+  METALLICMASK,
+  METALLICMASKHALLOWEEN,
+
+  // ShieldType
+  ROUGHBUCKLER,
+  KNIGHTSSHIELD,
+  SLATSSHIELD,
+  LILBUCKLER,
+  WILDBUCKLER,
+  BOOHOOBUCKLER,
+  PINSBUCKLER,
+  WINGCRESTSHIELD,
+  SWAMPBUCKLER,
+  AMETHYSTBUCKLER,
+  SOLDIERSBUCKLER,
+  TOWERSHIELD,
+  HERCULEPAVISE,
+  MIRRORSHIELD,
+  KINGSSHIELD,
+  BASHINGSHIELD
+}

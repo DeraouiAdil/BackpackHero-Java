@@ -1,0 +1,20 @@
+<project name="BackPackHero" default="javadoc">
+
+    <path id="project.classpath">
+        <fileset dir="lib">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+    <target name="javadoc">
+        <mkdir dir="docs/doc"/>
+        <javadoc sourcepath="src" 
+                 destdir="docs/doc" 
+                 packagenames="*" 
+                 classpathref="project.classpath"
+                 locale="en_US"
+                 windowtitle="BackPack Hero API"
+                 failonerror="true"> </javadoc>
+    </target>
+
+</project>

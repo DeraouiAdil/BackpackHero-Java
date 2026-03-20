@@ -1,0 +1,75 @@
+[
+  {
+    "name": "SMALLRATWOLF",
+    "hp": 32,
+    "xp": 7,
+    "gold" : 3,
+    "damage": 7,
+    "protection": 14,
+    "isBoss": false,
+    "img": "smallratwolf.gif"
+  },
+  {
+    "name": "RATWOLF",
+    "hp": 45,
+    "xp": 6,
+    "gold" : 1,
+    "damage": 7,
+    "protection": 13,
+    "isBoss": false,
+    "img": "ratwolf.gif"
+  },
+  {
+    "name": "FROGWIZARD",
+    "hp": 45,
+    "xp": 8,
+    "gold" : 3,
+    "damage": 1,
+    "protection": 1,
+    "isBoss": false,
+    "img": "frogwizard.gif"
+  },
+  {
+    "name": "SHADOWLIVING",
+    "hp": 50,
+    "xp": 25,
+    "gold" : 7,
+    "damage": 2,
+    "protection": 2,
+    "isBoss": false,
+    "img": "livingshadow.gif"
+  },
+  {
+    "key": "QUEENBEE",
+    "hp": 120,
+    "xp": 20,    
+    "gold" : 13,
+    "damage": 15,
+    "protection": 20,
+    "isBoss": true,
+    "summon": "HIVEGUARDIAN", 
+    "minionsMax": 2,
+    "img": "queenbee.gif"
+  },
+  {
+    "key": "HIVEGUARDIAN",
+    "hp": 60,
+    "xp": 12,    
+    "gold" : 5,
+    "damage": 10,
+    "protection": 15,
+    "isBoss": false,
+    "minionOf": "QUEENBEE",
+    "img": "hiveguardian.gif"
+  },
+    {
+    "key": "MIMIC",
+    "hp": 60,
+    "xp": 150,    
+    "gold" : 15,
+    "damage": 20,
+    "protection": 0,
+    "isBoss": true,
+    "img": "ratwolf.gif"
+  }
+]

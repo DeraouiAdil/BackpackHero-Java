@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"fr.uge"},{"l":"fr.uge.characters"},{"l":"fr.uge.characters.enums"},{"l":"fr.uge.controller"},{"l":"fr.uge.dongeon"},{"l":"fr.uge.items"},{"l":"fr.uge.items.enums"},{"l":"fr.uge.view"}];updateSearchResults();

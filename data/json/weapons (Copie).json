@@ -1,0 +1,542 @@
+[
+  {
+    "name": "HATCHET",
+    "category": "MELEE",
+    "damage": 5,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "HATCHET.png"
+  },
+  {
+    "name": "SHIV",
+    "category": "MELEE",
+    "damage": 2,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "SHIV.png"
+  },
+  {
+    "name": "CURSEDSHIV",
+    "category": "MELEE",
+    "damage": 2,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": true,
+    "image": "CURSEDSHIV.png"
+  },
+  {
+    "name": "GOLDENSHIV",
+    "category": "MELEE",
+    "damage": 2,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "GOLDENSHIV.png"
+  },
+  {
+    "name": "CLEAVER",
+    "category": "MELEE",
+    "damage": 4,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "CLEAVER.png"
+  },
+  {
+    "name": "GOLDCLEAVER",
+    "category": "MELEE",
+    "damage": 4,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "GOLDCLEAVER.png"
+  },
+  {
+    "name": "KINGCLEAVER",
+    "category": "MELEE",
+    "damage": 6,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 2 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "KINGCLEAVER.png"
+  },
+  {
+    "name": "QUEENCLEAVER",
+    "category": "MELEE",
+    "damage": 6,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 2 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "QUEENCLEAVER.png"
+  },
+  {
+    "name": "BALLHAMMER",
+    "category": "MELEE",
+    "damage": 3,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "BALLHAMMER.png"
+  },
+  {
+    "name": "CLAWHAMMER",
+    "category": "MELEE",
+    "damage": 3,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "MANA", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "CLAWHAMMER.png"
+  },
+  {
+    "name": "GERBILHAMMER",
+    "category": "MELEE",
+    "damage": 3,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "GERBILHAMMER.png"
+  },
+  {
+    "name": "DAMAGEDKNIFE",
+    "category": "MELEE",
+    "damage": 8,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "DAMAGEDKNIFE.png"
+  },
+  {
+    "name": "DAGGER",
+    "category": "MELEE",
+    "damage": 8,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "DAGGER.png"
+  },
+  {
+    "name": "VAMPIREBLADE",
+    "category": "MELEE",
+    "damage": 2,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "VAMPIREBLADE.png"
+  },
+  {
+    "name": "ASSASSINSDAGGER",
+    "category": "MELEE",
+    "damage": 3,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 2 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "ASSASSINSDAGGER.png"
+  },
+  {
+    "name": "BOWBLADE_SWORD",
+    "category": "MELEE",
+    "damage": 0,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "BOWBLADE_SWORD.png"
+  },
+  {
+    "name": "KEYSWORD",
+    "category": "MELEE",
+    "damage": 7,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "KEYSWORD.png"
+  },
+  {
+    "name": "CLUB",
+    "category": "MELEE",
+    "damage": 7,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "CLUB.png"
+  },
+  {
+    "name": "SPIKYCLUB",
+    "category": "MELEE",
+    "damage": 7,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "SPIKYCLUB.png"
+  },
+  {
+    "name": "MACE",
+    "category": "MELEE",
+    "damage": 16,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 2 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "MACE.png"
+  },
+  {
+    "name": "FLAMEHAMMER",
+    "category": "MELEE",
+    "damage": 9,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "FLAMEHAMMER.png"
+  },
+  {
+    "name": "SLIMESWORD",
+    "category": "MELEE",
+    "damage": 6,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "SLIMESWORD.png"
+  },
+  {
+    "name": "NEEDLER",
+    "category": "MELEE",
+    "damage": 7,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "isCursed": false,
+    "image": "NEEDLER.png"
+  },
+  {
+    "name": "FISHINGHOOK",
+    "category": "MELEE",
+    "damage": 0,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "isCursed": false,
+    "image": "FISHINGHOOK.png"
+  },
+  {
+    "name": "WOODENSWORD",
+    "category": "MELEE",
+    "damage": 7,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "WOODENSWORD.png"
+  },
+  {
+    "name": "MACHETE",
+    "category": "MELEE",
+    "damage": 3,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "MACHETE.png"
+  },
+  {
+    "name": "CHIPPEDSWORD",
+    "category": "MELEE",
+    "damage": 0,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "CHIPPEDSWORD.png"
+  },
+  {
+    "name": "HEAVYBLADE",
+    "category": "MELEE",
+    "damage": 8,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "HEAVYBLADE.png"
+  },
+  {
+    "name": "DUELINGSWORD",
+    "category": "MELEE",
+    "damage": 25,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "DUELINGSWORD.png"
+  },
+  {
+    "name": "PALADINSSWORD",
+    "category": "MELEE",
+    "damage": 10,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "PALADINSSWORD.png"
+  },
+  {
+    "name": "SCIMITAR",
+    "category": "MELEE",
+    "damage": 7,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "SCIMITAR.png"
+  },
+  {
+    "name": "CURSEDBLADE",
+    "category": "MELEE",
+    "damage": 8,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": true,
+    "image": "CURSEDBLADE.png"
+  },
+  {
+    "name": "FOXRAPIER",
+    "category": "MELEE",
+    "damage": 10,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "FOXRAPIER.png"
+  },
+  {
+    "name": "BRUTALSPEAR",
+    "category": "MELEE",
+    "damage": 7,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "BRUTALSPEAR.png"
+  },
+  {
+    "name": "VAMPIRICAXE",
+    "category": "MELEE",
+    "damage": 10,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "VAMPIRICAXE.png"
+  },
+  {
+    "name": "EARTHSTONEBLADE",
+    "category": "MELEE",
+    "damage": 5,
+    "rarity": "LEGENDARY",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }, { "x": 0, "y": 3 }],
+    "isCursed": false,
+    "image": "EARTHSTONEBLADE.png"
+  },
+  {
+    "name": "DORU",
+    "category": "MELEE",
+    "damage": 1,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 2 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }, { "x": 0, "y": 3 }],
+    "isCursed": false,
+    "image": "DORU.png"
+  },
+  {
+    "name": "DOUBLEHALBERD",
+    "category": "MELEE",
+    "damage": 4,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }, { "x": 0, "y": 3 }],
+    "isCursed": false,
+    "image": "DOUBLEHALBERD.png"
+  },
+  {
+    "name": "BERSERKERCLUB",
+    "category": "MELEE",
+    "damage": 10,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 1 }, { "x": 1, "y": 2 }],
+    "isCursed": false,
+    "image": "BERSERKERCLUB.png"
+  },
+  {
+    "name": "EMPTYCUP",
+    "category": "RANGED",
+    "damage": 0,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "EMPTYCUP.png"
+  },
+  {
+    "name": "DART",
+    "category": "RANGED",
+    "damage": 6,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "DART.png"
+  },
+  {
+    "name": "CROSSBOW",
+    "category": "RANGED",
+    "damage": 0,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "CROSSBOW.png"
+  },
+  {
+    "name": "SHORTARROW",
+    "category": "RANGED",
+    "damage": 1,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }],
+    "isCursed": false,
+    "image": "SHORTARROW.png"
+  },
+  {
+    "name": "BOWBLADE_ARROW",
+    "category": "RANGED",
+    "damage": 0,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "BOWBLADE_ARROW.png"
+  },
+  {
+    "name": "COMPOSITEBOW",
+    "category": "RANGED",
+    "damage": 0,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "COMPOSITEBOW.png"
+  },
+  {
+    "name": "ROCKET",
+    "category": "RANGED",
+    "damage": 3,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }],
+    "isCursed": false,
+    "image": "ROCKET.png"
+  },
+  {
+    "name": "ARROW",
+    "category": "RANGED",
+    "damage": 2,
+    "rarity": "COMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }],
+    "isCursed": false,
+    "image": "ARROW.png"
+  },
+  {
+    "name": "POISONARROW",
+    "category": "RANGED",
+    "damage": 2,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }],
+    "isCursed": false,
+    "image": "POISONARROW.png"
+  },
+  {
+    "name": "ELECTRICARROW",
+    "category": "RANGED",
+    "damage": 3,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }],
+    "isCursed": false,
+    "image": "ELECTRICARROW.png"
+  },
+  {
+    "name": "EXPLOSIVEARROW",
+    "category": "RANGED",
+    "damage": 4,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 1, "y": 0 }],
+    "isCursed": false,
+    "image": "EXPLOSIVEARROW.png"
+  },
+  {
+    "name": "MANASTONEBOW",
+    "category": "RANGED",
+    "damage": 0,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "MANASTONEBOW.png"
+  },
+  {
+    "name": "MOUSEBOW",
+    "category": "RANGED",
+    "damage": 0,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "MOUSEBOW.png"
+  },
+  {
+    "name": "CROOKEDARROW",
+    "category": "RANGED",
+    "damage": 1,
+    "rarity": "UNCOMMON",
+    "cost": { "type": "ENERGY", "val": 0 },
+    "shape": [{ "x": 0, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }],
+    "isCursed": false,
+    "image": "CROOKEDARROW.png"
+  },
+  {
+    "name": "LIGHTNINGBOLT",
+    "category": "MAGIC",
+    "damage": 10,
+    "rarity": "RARE",
+    "cost": { "type": "ENERGY", "val": 1 },
+    "shape": [{ "x": 1, "y": 0 }, { "x": 0, "y": 1 }, { "x": 1, "y": 1 }, { "x": 0, "y": 2 }],
+    "isCursed": false,
+    "image": "LIGHTNINGBOLT.png"
+  }
+]
